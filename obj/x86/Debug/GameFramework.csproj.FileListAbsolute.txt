@@ -1,0 +1,40 @@
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\GameFramework.exe
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\GameFramework.pdb
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\SharpDX.dll
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\SharpDX.xml
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\obj\x86\Debug\GameFramework.csprojResolveAssemblyReference.cache
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\obj\x86\Debug\GameFramework.exe
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\obj\x86\Debug\GameFramework.pdb
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\Content\01 Main Theme.xnb
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\Content\32 Fighting with All of Our Might.xnb
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\Content\Desert Eagle Shot.xnb
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\Content\Megaman Jumping.xnb
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\Content\Megaman Running.xnb
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\Content\Megaman Standing.xnb
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\Content\Megaman Waiting.xnb
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\Content\01 Main Theme.wma
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\Content\32 Fighting with All of Our Might.wma
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\IgnoreMe.dll
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework - Copy\GameFramework\obj\x86\Debug\GameFramework.exe
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework - Copy\GameFramework\obj\x86\Debug\GameFramework.pdb
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\Config\Audio.xml
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\Config\Input.xml
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\MonoGame.Framework.pdb
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Xander\Documents\Programming\Projects\Mono Game\Projects\GameFramework\GameFramework\bin\Windows\Debug\SharpDX.Direct3D9.xml

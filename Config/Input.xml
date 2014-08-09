@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Inputs>
+  <NumberOfPlayers>1</NumberOfPlayers>
+    
+  <Input Name = "Animation1">
+    <PositiveKey>D1</PositiveKey>
+    <NegativeKey></NegativeKey>
+    <MouseButton></MouseButton>
+    <PositiveGamePadButton>A</PositiveGamePadButton>
+    <NegativeGamePadButton></NegativeGamePadButton>
+    <GamepadPlayerIndex></GamepadPlayerIndex>
+    <GamepadAxis></GamepadAxis>
+    <AxisDeadZone></AxisDeadZone>
+    <AxisInvert></AxisInvert>
+  </Input>
+
+  <Input Name = "Animation2">
+    <PositiveKey>D2</PositiveKey>
+    <NegativeKey></NegativeKey>
+    <MouseButton></MouseButton>
+    <PositiveGamePadButton>B</PositiveGamePadButton>
+    <NegativeGamePadButton></NegativeGamePadButton>
+    <GamepadPlayerIndex></GamepadPlayerIndex>
+    <GamepadAxis></GamepadAxis>
+    <AxisDeadZone></AxisDeadZone>
+    <AxisInvert></AxisInvert>
+  </Input>
+
+  <Input Name = "Animation3">
+    <PositiveKey>D3</PositiveKey>
+    <NegativeKey></NegativeKey>
+    <MouseButton></MouseButton>
+    <PositiveGamePadButton>X</PositiveGamePadButton>
+    <NegativeGamePadButton></NegativeGamePadButton>
+    <GamepadPlayerIndex></GamepadPlayerIndex>
+    <GamepadAxis></GamepadAxis>
+    <AxisDeadZone></AxisDeadZone>
+    <AxisInvert></AxisInvert>
+  </Input>
+
+  <Input Name = "Horizontal">
+    <PositiveKey>D</PositiveKey>
+    <NegativeKey>A</NegativeKey>
+    <MouseButton></MouseButton>
+    <PositiveGamePadButton>DPadRight</PositiveGamePadButton>
+    <NegativeGamePadButton>DPadLeft</NegativeGamePadButton>
+    <GamepadPlayerIndex></GamepadPlayerIndex>
+    <GamepadAxis>LeftStickX</GamepadAxis>
+    <AxisDeadZone>0.5</AxisDeadZone>
+    <AxisInvert></AxisInvert>
+  </Input>
+
+  <Input Name = "Sound">
+    <PositiveKey>Space</PositiveKey>
+    <NegativeKey></NegativeKey>
+    <MouseButton></MouseButton>
+    <PositiveGamePadButton></PositiveGamePadButton>
+    <NegativeGamePadButton></NegativeGamePadButton>
+    <GamepadPlayerIndex></GamepadPlayerIndex>
+    <GamepadAxis></GamepadAxis>
+    <AxisDeadZone></AxisDeadZone>
+    <AxisInvert></AxisInvert>
+  </Input>
+
+  <Input Name = "Music1">
+    <PositiveKey>D9</PositiveKey>
+    <NegativeKey></NegativeKey>
+    <MouseButton></MouseButton>
+    <PositiveGamePadButton></PositiveGamePadButton>
+    <NegativeGamePadButton></NegativeGamePadButton>
+    <GamepadPlayerIndex></GamepadPlayerIndex>
+    <GamepadAxis></GamepadAxis>
+    <AxisDeadZone></AxisDeadZone>
+    <AxisInvert></AxisInvert>
+  </Input>
+
+  <Input Name = "Music2">
+    <PositiveKey>D0</PositiveKey>
+    <NegativeKey></NegativeKey>
+    <MouseButton></MouseButton>
+    <PositiveGamePadButton></PositiveGamePadButton>
+    <NegativeGamePadButton></NegativeGamePadButton>
+    <GamepadPlayerIndex></GamepadPlayerIndex>
+    <GamepadAxis></GamepadAxis>
+    <AxisDeadZone></AxisDeadZone>
+    <AxisInvert></AxisInvert>
+  </Input>
+
+  <Input Name = "Stop">
+    <PositiveKey>Back</PositiveKey>
+    <NegativeKey></NegativeKey>
+    <MouseButton></MouseButton>
+    <PositiveGamePadButton></PositiveGamePadButton>
+    <NegativeGamePadButton></NegativeGamePadButton>
+    <GamepadPlayerIndex></GamepadPlayerIndex>
+    <GamepadAxis></GamepadAxis>
+    <AxisDeadZone></AxisDeadZone>
+    <AxisInvert></AxisInvert>
+  </Input>
+
+  <Input Name = "Volume">
+    <PositiveKey>K</PositiveKey>
+    <NegativeKey>J</NegativeKey>
+    <MouseButton></MouseButton>
+    <PositiveGamePadButton></PositiveGamePadButton>
+    <NegativeGamePadButton></NegativeGamePadButton>
+    <GamepadPlayerIndex></GamepadPlayerIndex>
+    <GamepadAxis></GamepadAxis>
+    <AxisDeadZone></AxisDeadZone>
+    <AxisInvert></AxisInvert>
+  </Input>
+
+  <Input Name = "Mute">
+    <PositiveKey>L</PositiveKey>
+    <NegativeKey></NegativeKey>
+    <MouseButton></MouseButton>
+    <PositiveGamePadButton></PositiveGamePadButton>
+    <NegativeGamePadButton></NegativeGamePadButton>
+    <GamepadPlayerIndex></GamepadPlayerIndex>
+    <GamepadAxis></GamepadAxis>
+    <AxisDeadZone></AxisDeadZone>
+    <AxisInvert></AxisInvert>
+  </Input>
+
+  <Input Name = "AudioSave">
+    <PositiveKey>PageUp</PositiveKey>
+    <NegativeKey></NegativeKey>
+    <MouseButton></MouseButton>
+    <PositiveGamePadButton></PositiveGamePadButton>
+    <NegativeGamePadButton></NegativeGamePadButton>
+    <GamepadPlayerIndex></GamepadPlayerIndex>
+    <GamepadAxis></GamepadAxis>
+    <AxisDeadZone></AxisDeadZone>
+    <AxisInvert></AxisInvert>
+  </Input>
+
+  <Input Name = "InputSave">
+    <PositiveKey>PageDown</PositiveKey>
+    <NegativeKey></NegativeKey>
+    <MouseButton></MouseButton>
+    <PositiveGamePadButton></PositiveGamePadButton>
+    <NegativeGamePadButton></NegativeGamePadButton>
+    <GamepadPlayerIndex></GamepadPlayerIndex>
+    <GamepadAxis></GamepadAxis>
+    <AxisDeadZone></AxisDeadZone>
+    <AxisInvert></AxisInvert>
+  </Input>
+  
+  <Input Name = "Exit">
+    <PositiveKey>Escape</PositiveKey>
+    <NegativeKey></NegativeKey>
+    <MouseButton></MouseButton>
+    <PositiveGamePadButton>Back</PositiveGamePadButton>
+    <NegativeGamePadButton></NegativeGamePadButton>
+    <GamepadPlayerIndex></GamepadPlayerIndex>
+    <GamepadAxis></GamepadAxis>
+    <AxisDeadZone></AxisDeadZone>
+    <AxisInvert></AxisInvert>
+  </Input>
+</Inputs>
